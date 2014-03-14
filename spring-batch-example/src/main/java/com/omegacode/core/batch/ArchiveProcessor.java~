@@ -10,5 +10,4 @@ public class ArchiveProcessor implements ItemProcessor<Pagamento, Pagamento> {
 	public Pagamento process(Pagamento item) throws Exception {
 		return item;
 	}
-
 }
